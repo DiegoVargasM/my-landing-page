@@ -1,11 +1,14 @@
 .logo {
     height: auto;
-    width: 50px;
+    width: 45px;
+    padding: 6px;
+
 }
 
 .main-img {
     height: auto;
-    width: 500px;
+    width: 400px;
+    margin-top: 24px;
 }
 
 .peru-imgs {
@@ -18,15 +21,43 @@ ul {
     list-style: none;
     display: flex;
     gap: 24px;
-    color:midnightblue;
-    margin-top: 26px;
+    color:deeppink;
+    margin-top: 20px;
+    font-size: 20px;
 }
 
 .header {
     display: flex;
     justify-content: space-evenly;
-    background-color:lightcyan;
+    background-color:cornsilk;
     margin: 0;
     padding: 0;
-    
+    align-items: center;
+}
+
+.head-container {
+    display: flex;
+    background-color: cornsilk;
+    justify-content: center;
+    gap: 30px;
+    padding: 48px;
+    align-items: center;
+}
+
+.left-side-hc {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.button1 {
+    align-self: flex-start;
+}
+
+.h-title {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: -12px;
 }
