@@ -12,9 +12,8 @@
 }
 
 .peru-imgs {
-    height: auto;
+    height: 200px;
     width: 300px;
-    max-height: 200px;
 }
 
 ul {
@@ -60,4 +59,30 @@ ul {
     font-size: 32px;
     font-weight: 700;
     margin-bottom: -12px;
+}
+
+.title,
+.container {
+    text-align: center;
+}
+
+.title {
+    margin-bottom: 32px;
+    padding-top: 16px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.mid-space {
+    background-color: burlywood;
+    margin-top: -20px;
+}
+
+.info {
+    flex: 1;
+    
 }
