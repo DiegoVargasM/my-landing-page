@@ -15,5 +15,18 @@
 }
 
 ul {
-    list-style: none
+    list-style: none;
+    display: flex;
+    gap: 24px;
+    color:midnightblue;
+    margin-top: 26px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    background-color:lightcyan;
+    margin: 0;
+    padding: 0;
+    
 }
