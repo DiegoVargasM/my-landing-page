@@ -1,0 +1,19 @@
+.logo {
+    height: auto;
+    width: 50px;
+}
+
+.main-img {
+    height: auto;
+    width: 500px;
+}
+
+.peru-imgs {
+    height: auto;
+    width: 300px;
+    max-height: 200px;
+}
+
+ul {
+    list-style: none
+}
