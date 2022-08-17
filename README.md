@@ -1,1 +1,1 @@
-# landing-page-odin
+This is a landing page project made from scratch
