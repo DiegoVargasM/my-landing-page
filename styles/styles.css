@@ -108,3 +108,23 @@ ul {
     font-size: 26px;
     flex:1;
 }
+
+.modal-total {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 2px 4px 16px rgba(0, 0, 0, .2);
+    margin-left: 8px;
+    padding-left: 8px;
+    align-self: center;
+    background-color: orange;
+}
+
+.modal2 {
+    margin-left: 12px;
+}
+
+body {
+    font-family: "Roboto", Arial, sans-serif;
+}
